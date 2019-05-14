@@ -67,3 +67,6 @@ It's as simple as it can get. Clone this repository, open up the neuralNetwork.R
 
 # Help
 You might encounter some hiccups while trying to get the code to work or while trying to learn about neural networks. If you do feel lost, don't hesitate to contact us at the Assembly. We are available at most social media handles under the alias @MakeSmartThings and would be more than happy to help.
+
+To see the whole demo, go to - https://www.facebook.com/makesmartthings/videos/825063191201916?sfns=mo 
+
