@@ -61,12 +61,16 @@ Run the code from *NeuralNet_Visualization.R* which will plot a small Neural Net
 ![Neural Network Plot](https://github.com/The-Assembly/Neural_network_with_R/blob/master/NeuralNet_Plot.png)
 
 ## Running your first neural network!
-It's as simple as it can get. Clone this repository, open up the neuralNetwork.R file and run it. In this file, the neural network is primed to recognize digits from a handwritten dataset called MNIST. Finally, after you've successfully trained the neural network, Open up Project_101411025, which is the R file where the GUI interface using Shiny, an R package has been used. Run it and use the interface to upload test images present in this repository. Then watch your neural network as it successfully recognizes the digits.
+It's as simple as it can get. The steps are as follows:
+1. Clone this repository
+2. Open up the neuralNetwork.R file on RStudio
+3. Install all the packages mentioned earlier in the readme.
+4. Run the R file by clicking on the terminal tab at the lower half of the screen and typing Rscript "yourfilepath". An example of a valid file path in Mac would be "~/neuralNetwork.R". In this file, the neural network is primed to recognize digits from a handwritten dataset called MNIST. Observe the terminal until it shows iteration. This signifies that training has occurred and the network is at its nth iteration. Wait until the terminal is empty.
+5. Open up Project_101411025, which is the R file where the GUI interface using Shiny, an R package has been used. 
+6. Install all the packages mentioned earlier in the readme.
+7. Run the program and use the interface to upload test images present in this repository. Then watch your neural network as it successfully recognizes the digits.
 
 ![Digit Recognizer](https://github.com/The-Assembly/Neural_network_with_R/blob/master/DigitRecognizer.gif)
 
 # Help
-You might encounter some hiccups while trying to get the code to work or while trying to learn about neural networks. If you do feel lost, don't hesitate to contact us at the Assembly. We are available at most social media handles under the alias @MakeSmartThings and would be more than happy to help.
-
-To see the whole demo, go to - https://www.facebook.com/makesmartthings/videos/825063191201916?sfns=mo 
-
+If you encounter any issues while trying to get the code to work or while trying to learn about neural networks, don't hesitate to contact us at the Assembly. We are available at most social media handles under the alias @MakeSmartThings and would be more than happy to help.
