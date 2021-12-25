@@ -63,10 +63,10 @@ Run the code from *NeuralNet_Visualization.R* which will plot a small Neural Net
 ## Running your first neural network!
 It's as simple as it can get. The steps are as follows:
 1. Clone this repository
-2. Open up the neuralNetwork.R file on RStudio
+2. Open up the NeuralNetwork.R file on RStudio
 3. Install all the packages mentioned earlier in the readme.
-4. Run the R file by clicking on the terminal tab at the lower half of the screen and typing Rscript "yourfilepath". An example of a valid file path in Mac would be "~/neuralNetwork.R". In this file, the neural network is primed to recognize digits from a handwritten dataset called MNIST. Observe the terminal until it shows iteration. This signifies that training has occurred and the network is at its nth iteration. Wait until the terminal is empty.
-5. Open up Project_101411025, which is the R file where the GUI interface using Shiny, an R package has been used. 
+4. Run the R file by clicking on the terminal tab at the lower half of the screen and typing Rscript "yourfilepath". An example of a valid file path in Mac would be "~/NeuralNetwork.R". In this file, the neural network is primed to recognize digits from a handwritten dataset called MNIST. Observe the terminal until it shows iteration. This signifies that training has occurred and the network is at its nth iteration. Wait until the terminal is empty.
+5. Open up DigitRecognizer.R, which is the R file where the GUI interface using Shiny, an R package has been used. 
 6. Install all the packages mentioned earlier in the readme.
 7. Run the program and use the interface to upload test images present in this repository. Then watch your neural network as it successfully recognizes the digits.
 
